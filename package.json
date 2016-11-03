@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/construktivist/FriendFinder/issues"
   },
-  "homepage": "https://github.com/construktivist/FriendFinder#readme"
+  "homepage": "https://github.com/construktivist/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
 }
