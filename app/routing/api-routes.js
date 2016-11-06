@@ -39,7 +39,6 @@ module.exports = function (app){
 		};
 
 		response.json(match);
-
-		//friendsArray.push(request.body); // NEED TO DO SOMETHING WITH THIS!!!!!!!!!!!!!!!!!!!!!!!
+		friendsArray.push(request.body); // NEED TO DO SOMETHING WITH THIS!!!!!!!!!!!!!!!!!!!!!!!
 	})
 };
