@@ -16,39 +16,39 @@ var friendsArray = [
 	     4,
 	     1
 		]     
-	}
+	},
 	{
 	  name:"Tim",
 	  photo:"http://www.freelanceme.net/Images/default%20profile%20picture.png",
 	  scores:[
 	     5,
-	     1,
-	     4,
+	     2,
+	     3,
 	     4,
 	     5,
 	     1,
 	     2,
 	     5,
-	     4,
+	     1,
 	     1
 		]     
-	}
+	},
 	{
 	  name:"Mary",
 	  photo:"http://www.freelanceme.net/Images/default%20profile%20picture.png",
 	  scores:[
-	     5,
+	     3,
+	     3,
+	     4,
 	     1,
-	     4,
-	     4,
-	     5,
 	     1,
 	     2,
-	     5,
-	     4,
-	     1
+	     2,
+	     3,
+	     3,
+	     2, 
 		]     
-	}
+	},
 ];
 
 module.exports = friendsArray;
